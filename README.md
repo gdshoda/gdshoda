@@ -21,8 +21,44 @@ Most of my programming happens at work or for school assignments, but I am makin
 
 -<b>Home Server</b>
 
+<h2>Current Courses</h2>
+
+- Data Science In Practice
+
+- Security For Networked Systems
+
+<h2>Completed Grad School Courses</h2>
+
+- Introduction to Python Programming | Fall 2021
+
+- Applied Algorithms | Fall 2021
+
+- Intro to Statistics | Spring 2022
+
+- Applied Database Technologies | Spring 2023
+
+- Applied Machine Learning | Fall 2023
+
+- NLP In Python | Fall 2023
+
+- Intro to Scala | Fall 2023
+
+- Intro to PySpark | Fall 2023
+
+- Information Visualization | Spring 2024
+
+- Management, Access, and Use of Big Data | Spring 2024
+
+- Statiscal Analysis for Effective Decision Making | Summer 2024
+
 <h2>Foreign Language</h2>
 
 - French
 
 - Japanese
+
+
+
+
+
+
