@@ -23,4 +23,5 @@ Most of my programming happens at work or for school assignments, but I am makin
 
 <h2>Foreign Language</h2>
 - French
+
 - Japanese
