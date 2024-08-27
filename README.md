@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greg Shoda!<br/> <a href="https://github.com/gdshoda">Data Science Graduate Student</a>, <a href="https://www.linkedin.com/in/gregory-shoda-36516617a/">Mortgage Systems Analyst</a>
+<h1>Hi, I'm Greg Shoda!<br/> <a href="https://github.com/gdshoda">Data Science Graduate Student</a>, <a href="https://www.linkedin.com/in/gregory-shoda-36516617a/">Mortgage Systems Analyst</a></h1>
 
 Hello, my name is Greg Shoda. I have bachelor's degrees in French and Physics, and speak French fluently. I have been learning Japanese for two years and have found learning Japanese very rewarding. I play tennis once or twice a week throughout the year and enjoy playing and watching all sports!
 
