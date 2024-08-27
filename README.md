@@ -20,3 +20,7 @@ Most of my programming happens at work or for school assignments, but I am makin
 -<b>Computer Build</b>
 
 -<b>Home Server</b>
+
+<h2>Foreign Language</h2>
+- French
+- Japanese
