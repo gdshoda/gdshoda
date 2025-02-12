@@ -9,6 +9,7 @@ Most of my programming happens at work or for school assignments, but I am makin
 
 ## Data Projects
 - **Streamlit Apps**
+  - [Job Search App](https://github.com/gdshoda/jobsearch)
 
 <h2>Data Projects</h2>
 - <b>Data Pipeline Projects</b>
