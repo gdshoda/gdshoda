@@ -10,14 +10,11 @@ Most of my programming happens at work or for school assignments, but I am makin
 ## Data Projects
 - **Streamlit Apps**
   - [Job Search App](https://github.com/gdshoda/jobsearch)
-
-<h2>Data Projects</h2>
-- <b>Data Pipeline Projects</b>
+- **Data Pipeline Projects**
   - [NFL Draft Data Pipeline](https://github.com/gdshoda/nfldraftpipeline)
   - [NFL 2024-2025 Season Betting Odds Pipeline](https://github.com/gdshoda/NFLBettingOdds2024Season)
-- <b>Data Visualization Projects</b>
+- **Visualization Projects**
   - [Kansas Water Quality Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk5ZGFlMDItYzliMS00MWU4LWE3MmUtYjgyYzU1OTY0NzM0IiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
-- <b>Machine Learning Projects</b>
 
 <h2>IT Projects</h2>
 
