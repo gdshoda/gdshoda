@@ -7,7 +7,8 @@ I am a strong python programmer and am very experienced with getting data into t
 Most of my programming happens at work or for school assignments, but I am making a concerted effort to work on personal projects to get more familiar with different data technologies, and showcase my skills and hobbies in this portfolio.
 
 <h2>Data Projects</h2>
-
+- <b> Streamlit Apps </b>
+  - [Job Search App](https://github.com/gdshoda/jobsearch)
 - <b>Data Pipeline Projects</b>
   - [NFL Draft Data Pipeline](https://github.com/gdshoda/nfldraftpipeline)
   - [NFL 2024-2025 Season Betting Odds Pipeline](https://github.com/gdshoda/NFLBettingOdds2024Season)
