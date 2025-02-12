@@ -16,47 +16,29 @@ Most of my programming happens at work or for school assignments, but I am makin
 - **Visualization Projects**
   - [Kansas Water Quality Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk5ZGFlMDItYzliMS00MWU4LWE3MmUtYjgyYzU1OTY0NzM0IiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
 
-<h2>IT Projects</h2>
-
--<b>Computer Build</b>
-
+## IT Projects
 -<b>Home Server</b>
 
-<h2>Current Courses</h2>
+## Grad School Courses and Projects
 
-- Data Science In Practice
-
-- Security For Networked Systems
-
-<h2>Completed Grad School Courses</h2>
-
+- Data Science In Practice | Fall 2024
+- Security for Networked Systems | Fall 2024
+- Statiscal Analysis for Effective Decision Making | Summer 2024
+- Management, Access, and Use of Big Data | Spring 2024
+- Information Visualization | Spring 2024
+- Intro to PySpark | Fall 2023
+- Intro to Scala | Fall 2023
+- NLP In Python | Fall 2023
+- Applied Machine Learning | Fall 2023
+- Applied Database Technologies | Spring 2023
+- Intro to Statistics | Spring 2022
+- Applied Algorithms | Fall 2021
 - Introduction to Python Programming | Fall 2021
 
-- Applied Algorithms | Fall 2021
+## Foreign Languages
 
-- Intro to Statistics | Spring 2022
-
-- Applied Database Technologies | Spring 2023
-
-- Applied Machine Learning | Fall 2023
-
-- NLP In Python | Fall 2023
-
-- Intro to Scala | Fall 2023
-
-- Intro to PySpark | Fall 2023
-
-- Information Visualization | Spring 2024
-
-- Management, Access, and Use of Big Data | Spring 2024
-
-- Statiscal Analysis for Effective Decision Making | Summer 2024
-
-<h2>Foreign Language</h2>
-
-- French
-
-- Japanese
+- French | C1
+- Japanese | A1 
 
 
 
