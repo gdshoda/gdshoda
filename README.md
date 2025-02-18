@@ -1,7 +1,7 @@
 # Hi, I'm Greg Shoda
 ## [Data Science Graduate Student](https://github.com/gdshoda), [Mortgage Systems Analyst](https://www.linkedin.com/in/gregory-shoda-36516617a/)
 
-Hello, my name is Greg Shoda. I have bachelor's degrees in French and Physics, and speak French fluently. I have been learning Japanese for two years and have found learning Japanese very rewarding. I play tennis once or twice a week throughout the year and enjoy playing and watching all sports!
+Hello, my name is Greg Shoda. I have a Master's degree in Data Science, Bachelor's degrees in French and Physics. I speak french fluently, and I have been learning Japanese for three years and have found learning Japanese very rewarding. I play tennis once or twice a week throughout the year and enjoy playing and watching all sports!
 
 I am a strong python programmer and am very experienced with getting data into the right types and combining different datasets to gain insight from them. I am adept with SQL queries and data modeling. I also am very good with data visualization through Python or Power BI.
 
